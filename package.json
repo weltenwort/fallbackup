@@ -3,6 +3,7 @@
   "version": "0.0.1",
   "author": "Felix Stürmer <stuermer@weltenwort.de>",
   "main": "index.html",
+  "node-main": "backend/backend.js",
   "window": {
     "title": "FallbackUp",
     "toolbar": true,
