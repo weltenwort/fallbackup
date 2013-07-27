@@ -21,7 +21,7 @@ module.exports = function(grunt) {
         // Task configuration.
         component_build: {
             dist: {
-                name: 'fallbackup',
+                name: 'frontend',
                 output: './build/',
                 prefix: 'build',
                 configure: function(rootBuilder) {
