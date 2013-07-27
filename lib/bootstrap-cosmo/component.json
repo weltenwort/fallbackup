@@ -1,0 +1,21 @@
+{
+    "name": "bootstrap-cosmo",
+    "version": "2.3.2",
+    "scripts": [
+        "index.js"
+    ],
+    "fonts": [
+        "fonts/open_sans_400.woff",
+        "fonts/open_sans_700.woff",
+        "fonts/open_sans_italic_400.woff",
+        "fonts/open_sans_italic_700.woff"
+    ],
+    "images": [
+        "img/glyphicons-halflings-white.png",
+        "img/glyphicons-halflings.png"
+    ],
+    "styles": [
+        "opensans.css",
+        "bootstrap.css"
+    ]
+}

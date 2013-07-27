@@ -1,0 +1,20 @@
+{
+  "name": "fallbackup",
+  "version": "0.0.1",
+  "author": "Felix Stürmer <stuermer@weltenwort.de>",
+  "main": "index.html",
+  "window": {
+    "title": "FallbackUp",
+    "toolbar": true,
+    "position": "center",
+    "resizable": true
+  },
+  "devDependencies": {
+    "grunt": "0.4.x",
+    "grunt-contrib-jshint": "0.4.x",
+    "grunt-contrib-watch": "0.4.x",
+    "grunt-component-build": "~0.3.0",
+    "less": "1.4.2",
+    "async": "0.2.9"
+  }
+}

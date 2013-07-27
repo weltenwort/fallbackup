@@ -1,0 +1,23 @@
+{
+    "name": "fallbackup",
+    "description": "desktop backup frontend",
+    "version": "0.0.1",
+    "paths": [
+        "components",
+        "frontend",
+        "lib"
+    ],
+    "dependencies": {
+        "weltenwort/angular-component": "1.1.5",
+        "weltenwort/angular-ui-router-component": "0.0.1-2"
+    },
+    "local": [
+        "bootstrap-cosmo"
+    ],
+    "scripts": [
+        "index.js"
+    ],
+    "styles": [
+        "index.css"
+    ]
+}
